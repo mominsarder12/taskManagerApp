@@ -1,6 +1,6 @@
 <?php 
 
-#Database Details
+#Database Details for connect with database
 define("DB_HOST", "localhost"); //or localhost
 define("DB_NAME", "task"); 
 define("DB_TABLE", "tasks"); 

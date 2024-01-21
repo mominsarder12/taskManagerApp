@@ -1,3 +1,4 @@
+//for display a massage to users data saved successfully
 document.addEventListener("DOMContentLoaded", function () {
 	var successMessage = document.getElementById("success-message");
 
@@ -19,18 +20,6 @@ function closeSuccessMessage() {
 	var successMessage = document.getElementById("success-message");
 	successMessage.style.display = "none";
 }
-
-// const completeBtnAll = document.querySelectorAll(".complete");
-// const completeId = document.querySelectorAll("#complete_id");
-// const completeForm = document.querySelectorAll("#complete_form");
-// completeBtnAll.forEach((completeBtn) => {
-// 	completeBtn.addEventListener("click", function () {
-// 		let id = this.dataset.task_id;
-// 		//alert(id);
-// 		completeId.value(id);
-// 		completeForm.submit();
-// 	});
-// });
 
 //for mark as complete tasks
 const completeBtnAll = document.querySelectorAll(".complete");

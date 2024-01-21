@@ -1,0 +1,11 @@
+######################### Learnings from this project ######################
+taken value from a specific form and make a query for delete or update their value
+make a bulk sql query for delete and update their value
+delete a value form database using php and mysql query
+update a value form database using php and mysql query
+basic curd operation and understanding database work flow.
+display notification to user when something delete or update in database.
+how to delete or update multiple value at a time using mysql query.
+and lots of thing which is related to database and php
+
+this project helps me to understand the connection between database and user also php and admin.
