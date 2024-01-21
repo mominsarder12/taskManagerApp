@@ -7,5 +7,5 @@ basic curd operation and understanding database work flow.
 display notification to user when something delete or update in database.
 how to delete or update multiple value at a time using mysql query.
 and lots of thing which is related to database and php
-
+how to work with form in php with database
 this project helps me to understand the connection between database and user also php and admin.
